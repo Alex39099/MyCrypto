@@ -16,7 +16,7 @@
  *
  */
 
-package me.Alexqp.cryptoAPI;
+package com.github.alexqp.cryptoAPI;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -16,7 +16,7 @@
  *
  */
 
-package me.Alexqp.cryptoAPI;
+package com.github.alexqp.cryptoAPI;
 
 import com.sun.istack.internal.NotNull;
 import com.sun.istack.internal.Nullable;

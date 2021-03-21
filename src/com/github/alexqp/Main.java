@@ -16,11 +16,11 @@
  *
  */
 
-package me.Alexqp;
+package com.github.alexqp;
 
-import me.Alexqp.cryptoAPI.EllipticCurve;
-import me.Alexqp.cryptoAPI.EllipticEncoder;
-import me.Alexqp.cryptoAPI.MessageEncoder;
+import com.github.alexqp.cryptoAPI.EllipticCurve;
+import com.github.alexqp.cryptoAPI.EllipticEncoder;
+import com.github.alexqp.cryptoAPI.MessageEncoder;
 
 public class Main {
 

@@ -18,9 +18,9 @@
 
 package me.Alexqp;
 
-import me.Alexqp.kryptoAPI.EllipticCurve;
-import me.Alexqp.kryptoAPI.EllipticEncoder;
-import me.Alexqp.kryptoAPI.MessageEncoder;
+import me.Alexqp.cryptoAPI.EllipticCurve;
+import me.Alexqp.cryptoAPI.EllipticEncoder;
+import me.Alexqp.cryptoAPI.MessageEncoder;
 
 public class Main {
 
